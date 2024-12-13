@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Healthcare Consultant | Software Developer | 🌱 Lifelong Learner
 
-I'm a software developer passionate about creating clean, efficient solutions to complex problems. Currently focusing on full-stack web development and exploring new technologies.
+I'm a consultant, software developer passionate about creating clean, efficient solutions to complex problems. Currently focusing on full-stack web development and exploring new technologies.
 
 ### 🔭 Current Projects
 - Building a full-stack e-commerce platform using React and Ruby on Rails
@@ -20,7 +20,7 @@ I'm a software developer passionate about creating clean, efficient solutions to
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
 ### 🌟 Featured Projects
-- [Project 1](https://github.com/username/project1) - Brief description
+- [Ruby Caesar Cypher Encoder/Decoder](https://github.com/NikosZar/Caesar-Cypher) - encode and decode text message using a caesar cypher. The decoder is able to deduce the shift used in the encoding. 
 - [Project 2](https://github.com/username/project2) - Brief description
 - [Project 3](https://github.com/username/project3) - Brief description
 
