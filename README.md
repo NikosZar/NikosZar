@@ -26,7 +26,7 @@ I'm a consultant, software developer passionate about creating clean, efficient 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=NikosZar&show_icons=true&theme=radical)
 
 ### 📫 How to reach me:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin/)](https://www.linkedin.com/in/your-linkedin/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikoszarikos/)](https://www.linkedin.com/in/nikoszarikos/)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=html5&logoColor=white&link=https://your-portfolio.com)](https://your-portfolio.com)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your@email.com)](mailto:your@email.com)
 
