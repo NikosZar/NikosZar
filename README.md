@@ -28,17 +28,16 @@ I'm a consultant, software developer passionate about creating clean, efficient 
 ### 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikoszarikos/)](https://www.linkedin.com/in/nikoszarikos/)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=html5&logoColor=white&link=https://your-portfolio.com)](https://your-portfolio.com)
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your@email.com)](mailto:your@email.com)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your@email.com)](mailto:zarikos.nikos@email.com)
 
 ### 🎯 Goals for 2025
-- [ ] Master Ruby on Rails
-- [ ] Contribute to 5 open source projects
-- [ ] Build and deploy 3 full-stack applications
-- [ ] Improve testing skills
+- [ ] Learn Rails 8
+- [ ] Cryptography
+- [ ] Build & Deploy Personal Website
 
 ### 💡 Fun facts
 - 🎮 When I'm not coding, I enjoy Tennis, Sailing, Soccer
-- 📚 Currently reading: The Emperor of All Maladies
+- 📚 Currently reading: The Body Keeps The Score
 - 🌍 Love to travel and explore new places
 
 ---
