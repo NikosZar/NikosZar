@@ -20,7 +20,8 @@ I'm a consultant, software developer passionate about creating clean, efficient 
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 
 ### 🌟 Featured Projects
-- [Ruby Caesar Cypher Encoder/Decoder](https://github.com/NikosZar/Caesar-Cypher) - encode and decode text message using a caesar cypher. The decoder is able to deduce the shift used in the encoding. 
+- [Ruby Caesar Cypher Encoder/Decoder](https://github.com/NikosZar/Caesar-Cypher) - encode and decode text message using a caesar cypher. The decoder is able to deduce the shift used in the encoding.
+- [Ruby Terminal Hangman](https://github.com/NikosZar/hangman) - Play Hangman in your terminal. Save the game and load to pickup where you left off. 
 
 ### 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=NikosZar&show_icons=true&theme=radical)
