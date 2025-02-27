@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Healthcare Consultant | Software Developer | 🌱 Lifelong Learner
 
-I'm a consultant, software developer passionate about creating clean, efficient solutions to complex problems. Currently focusing on full-stack web development and exploring new technologies.
+I'm a consultant and software developer who loves turning math into code. 
 
 ### 🔭 Current Projects
 - Viginere-Cypher
