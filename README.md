@@ -1,6 +1,6 @@
 # Ela 
 
-## 👨‍💻 Healthcare Consultant | Software Developer | 🌱 Lifelong Learner
+## 👨‍💻 Healthcare Consultant | Data Scientist | 🌱 Lifelong Learner
 
 I'm a consultant and Data Scientist who loves turning math into code. 
 
