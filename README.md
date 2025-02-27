@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Healthcare Consultant | Software Developer | 🌱 Lifelong Learner
 
-I'm a consultant and software developer who loves turning math into code. 
+I'm a consultant and Data Scientist who loves turning math into code. 
 
 ### 🔭 Current Projects
 - Viginere-Cypher
