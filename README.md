@@ -1,4 +1,4 @@
-# Hi there, I'm Niko 👋
+# Ela 
 
 ## 👨‍💻 Healthcare Consultant | Software Developer | 🌱 Lifelong Learner
 
