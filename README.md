@@ -8,6 +8,7 @@ I'm a consultant and Data Scientist who loves turning math into code.
 - Viginere-Cypher
 - Medication Tracker Mobile Application
 - Narrative Wellness & Culture Digital Publication
+- Lumocracy: Making Statutory Law accessible to citizens
 
 ### 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
