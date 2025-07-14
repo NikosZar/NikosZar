@@ -25,12 +25,6 @@ I'm a product-minded data engineer and civic technologist.
 - [Hangman in Ruby](https://github.com/NikosZar/hangman) – Terminal-based word game with save/load features
 - [Legislation Scraper Prototype](https://github.com/NikosZar) – Python + Playwright scraper for SF ordinances (private repo on request)
 
----
-
-### Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nikoszarikos/)](https://www.linkedin.com/in/nikoszarikos/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=html5&logoColor=white&link=https://your-portfolio.com)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:zarikos.nikos@gmail.com)
 
 ### Off the Clock
 - Former U18 Panionios FC player & two-time injury survivor 🦿
@@ -41,9 +35,10 @@ I'm a product-minded data engineer and civic technologist.
 ### GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=NikosZar&show_icons=true&theme=radical)
 
-### How to reach me:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikoszarikos/)](https://www.linkedin.com/in/nikoszarikos/)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=html5&logoColor=white&link=https://your-portfolio.com)](https://your-portfolio.com)
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your@email.com)](mailto:zarikos.nikos@email.com)
----
+
+### Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nikoszarikos/)](https://www.linkedin.com/in/nikoszarikos/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=html5&logoColor=white&link=https://your-portfolio.com)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:zarikos.nikos@gmail.com)
+
 From [NikosZar](https://github.com/NikosZar)
