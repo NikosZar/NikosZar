@@ -1,8 +1,8 @@
-# Ela, I'm Nikos
+# Ela I'm Nikos
 
 ### Data Engineer | Civic Tech Builder | Former Athlete on a Mission
 
-I'm a product-minded data engineer and civic technologist with 5+ years of experience using code, data, and storytelling to make systems more just — from healthcare to democracy. I'm currently building **Lumocracy**, a platform to make municipal legislation transparent and navigable by everyday citizens.
+I'm a product-minded data engineer and civic technologist.
 
 ---
 
@@ -27,17 +27,9 @@ I'm a product-minded data engineer and civic technologist with 5+ years of exper
 ---
 
 ### 🌟 Featured Projects
-- 🔐 [Caesar Cypher in Ruby](https://github.com/NikosZar/Caesar-Cypher) – Encode/decode with auto-shift detection
-- 🧠 [Hangman in Ruby](https://github.com/NikosZar/hangman) – Terminal-based word game with save/load features
-- ⚖️ [Legislation Scraper Prototype](https://github.com/NikosZar) – Python + Playwright scraper for SF ordinances (private repo on request)
-
----
-
-### 🧭 2025 Goals
-- [ ] Ship MVP of medication tracker
-- [ ] Publish 2 essays on *Narrative Wellness*
-- [ ] Launch public dashboard of SF legislative network
-- [ ] Learn Rails 8 and contribute to an open-source civic tech project
+- [Caesar Cypher in Ruby](https://github.com/NikosZar/Caesar-Cypher) – Encode/decode with auto-shift detection
+- [Hangman in Ruby](https://github.com/NikosZar/hangman) – Terminal-based word game with save/load features
+- [Legislation Scraper Prototype](https://github.com/NikosZar) – Python + Playwright scraper for SF ordinances (private repo on request)
 
 ---
 
