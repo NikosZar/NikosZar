@@ -22,7 +22,6 @@ I'm a product-minded data engineer and civic technologist.
 
 ### Featured Projects
 - [Caesar Cypher in Ruby](https://github.com/NikosZar/Caesar-Cypher) – Encode/decode with auto-shift detection
-- [Hangman in Ruby](https://github.com/NikosZar/hangman) – Terminal-based word game with save/load features
 - [Legislation Scraper Prototype](https://github.com/NikosZar) – Python + Playwright scraper for SF ordinances (private repo on request)
 
 
