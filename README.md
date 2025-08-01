@@ -17,7 +17,7 @@
 
 ### Featured Projects
 - [Caesar Cypher in Ruby](https://github.com/NikosZar/Caesar-Cypher) – Encode/decode with auto-shift detection
-- [Legislation Scraper Prototype](https://github.com/NikosZar) – Python + Playwright scraper for SF ordinances (private repo on request)
+- [Legislation Scraper Prototype](https://github.com/NikosZar) – Python + Playwright scraper for SF ordinances (private, in the works)
 
 
 ### Let's Connect
